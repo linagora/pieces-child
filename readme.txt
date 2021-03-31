@@ -1,3 +1,5 @@
+!! This repository is archived !!
+
 Pieces WordPress theme, Copyright (C) 2013 csThemes
 Pieces WordPress theme is licensed under the GNU GPL v3.0
 
